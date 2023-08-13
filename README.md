@@ -1,8 +1,4 @@
-o.0 I'm Justin and I
-- am good at Java
-- am pretty good at HTML/CSS
-- will be interning in Data Science at Lockheed Martin
-- learning JavaScript, using Node.js, Express.js, Firebase, and Stripe
+o.0 I'm Justin
 
 You can reach me @ exovitejl@gmail.com
 
