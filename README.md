@@ -1,4 +1,4 @@
-<(0_0<) ~ I'm Justin ~ (>0_0)>
+<(0_0<) ~ I'm Justin ~ (>0_0)> \n
 Currently a SWE @ Google (YouTube Playables Team)
 
 You can reach me @ exovitejl@gmail.com or justinjliu@google.com
