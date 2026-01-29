@@ -10,4 +10,4 @@ You can reach me @ exovitejl@gmail.com or justinjliu@google.com
 
 <b> Current position: </b> SWE @ Google (YouTube Playables Team)
 
-<b> Most recent project: </b> Survive the Brainrot Disasters
+<b> Most recent project: </b> Survive the Brainrot Disasters (Roblox game)
